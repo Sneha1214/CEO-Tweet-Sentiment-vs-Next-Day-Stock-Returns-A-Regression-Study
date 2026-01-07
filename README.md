@@ -5,4 +5,6 @@ We combine daily CEO tweets from Twitter with daily stock returns and estimate a
 3. how much engagement those tweets receive,
 4. and standard market controls (today’s volatility and trading volume),
 5. plus firm fixed effects.
+
+
 Overall, we find that market conditions and investor attention explain more of next-day volatility than tweet tone alone, and that any tweet-related effects should be interpreted as associations, not causal impacts.
